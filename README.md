@@ -1,5 +1,7 @@
 # Devana-Zadatak-1
 Proba
 
-Prve izmene u master-u.
-Kraj prvih izmena u master-u.
+Druge izmene u master-u.
+Kraj drugih izmena u master-u.
+
+Dobro.
